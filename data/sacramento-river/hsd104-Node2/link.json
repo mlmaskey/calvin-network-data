@@ -1,0 +1,17 @@
+{
+  "prmname": "HSD104-Node2",
+  "description": "Agriculture ",
+  "type": "Diversion",
+  "origin": "HSD104",
+  "terminus": "Node2",
+  "amplitude": 1,
+  "costs": 0,
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

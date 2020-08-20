@@ -1,0 +1,17 @@
+{
+  "prmname": "Node 1-Node2",
+  "description": "Sacramento River between Shasta Dam and Keswick Reservoir",
+  "type": "Diversion",
+  "origin": "Node1",
+  "terminus": "D5",
+  "amplitude": 1,
+  "costs": 0,
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

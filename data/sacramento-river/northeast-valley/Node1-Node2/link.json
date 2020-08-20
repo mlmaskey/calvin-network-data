@@ -1,0 +1,17 @@
+{
+  "prmname": "Node1-Node2",
+  "description": "Reach between  Node1 and Node2",
+  "type": "Diversion",
+  "origin": "Node1",
+  "terminus": "Node2",
+  "amplitude": 1,
+  "costs": 0,
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

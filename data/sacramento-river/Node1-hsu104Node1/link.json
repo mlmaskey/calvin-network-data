@@ -1,0 +1,18 @@
+{
+  "prmname": "Node1-hsu104Node1",
+  "description": "Reach between Node1 and hsu104Node1",
+  "type": "Diversion",
+  "origin": "Node1",
+  "terminus": "hsu104Node1",
+  "amplitude": 1,
+  "costs": 50
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

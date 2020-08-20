@@ -1,0 +1,8 @@
+{"type":"Feature",
+ "geometry":{"type":"Point","coordinates":[-122.211276,40.327188]},
+ "properties":{"prmname":"Node2",
+ "description":"CVPM 1 return flow",
+ "type":"Junction",
+ "inflows":null,
+ "sinks":null, "costs" : 0, "bounds" : null},
+ "flow":{"$ref" : "flow.csv"}}}

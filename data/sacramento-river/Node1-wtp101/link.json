@@ -1,0 +1,19 @@
+{
+  "prmname": "Node1-WTP101",
+  "description": "Sacramento River between Shasta Dam and Keswick Reservoir",
+  "type": "Diversion",
+  "origin": "Node1",
+  "terminus": "WTP101",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "costs": 80,
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}
