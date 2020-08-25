@@ -1,0 +1,23 @@
+{
+  "prmname": "U207-RECH8",
+  "description": "Artificial recharge to CVPM08 from agriculture node A207",
+  "type": "Diversion",
+  "origin": "U207",
+  "terminus": "RECH8",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 125
+  },
+"bounds": [
+    {
+      "type": "UBT",
+      "bound": {
+        "$ref": "./UBT.csv"
+      }
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}
