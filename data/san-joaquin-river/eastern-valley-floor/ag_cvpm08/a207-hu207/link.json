@@ -4,7 +4,7 @@
   "type": "Diversion",
   "origin": "A207",
   "terminus": "HU207",
-  "amplitude": 1.00899994373322,
+  "amplitude": 0.90,
   "costs": {
     "type": "Constant",
     "cost": 0
