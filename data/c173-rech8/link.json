@@ -1,18 +1,20 @@
 {
-  "prmname": "C173-HSU207C173",
+  "prmname": "C173-RECH8",
   "description": "Folsom South Canal diversion to CVPM8",
   "type": "Diversion",
   "origin": "C173",
-  "terminus": "HSU207C173",
-  "amplitude": 0.8,
+  "terminus": "RECH8",
+  "amplitude": 1,
   "costs": {
     "type": "Constant",
-    "cost": 0
+    "cost": -125.0
   },
   "bounds": [
     {
-      "type": "UBC",
-      "bound": 6.69999980926514
+      "type": "UBT",
+      "bound": {
+        "$ref": "./UBT.csv"
+      }
     }
   ],
   "flow": {

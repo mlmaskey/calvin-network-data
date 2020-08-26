@@ -1,10 +1,10 @@
 {
-  "prmname": "RECH8-HGR08",
-  "description": null,
+  "prmname": "HGR08-RECH8",
+  "description": "Link from hidden node for calibration of GW-8",
   "type": "Diversion",
-  "origin": "RECH8",
-  "terminus": "HGR08",
-  "amplitude": 0.95, 
+  "origin": "HGR08",
+  "terminus": "RECH8",
+  "amplitude": 1,
   "costs": {
     "type": "Constant",
     "cost": 0
