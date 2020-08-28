@@ -9,10 +9,9 @@
     "type": "Constant",
     "cost": -125.0
   },
-"bounds": [
+  "bounds": [
     {
-      "type": "UBC",
-      "bound": 0
+      "type": "NOB"
     }
   ],
   "flow": {
