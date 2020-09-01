@@ -1,4 +1,5 @@
-# calvin-network-data
+# calvin-network-data for Folsom Lake basin
+This is a subnet for CALVIN netwoork
 
 Data for the [CALVIN Project](http://calvin.ucdavis.edu/).
 
