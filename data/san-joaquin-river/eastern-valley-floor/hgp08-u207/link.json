@@ -11,7 +11,8 @@
   },
   "bounds": [
     {
-      "type": "NOB"
+      "type": "UBC",
+      "bound": 768.00
     }
   ],
   "flow": {
