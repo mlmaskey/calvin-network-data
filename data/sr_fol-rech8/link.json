@@ -1,8 +1,8 @@
 {
-  "prmname": "C173-RECH8",
-  "description": "Folsom South Canal diversion to CVPM8",
+  "prmname": "SR_FOL-RECH8",
+  "description": "Folsom Release to Artificial recharge",
   "type": "Diversion",
-  "origin": "C173",
+  "origin": "SR_FOL",
   "terminus": "RECH8",
   "amplitude": 1,
   "costs": {
@@ -11,10 +11,7 @@
   },
   "bounds": [
     {
-      "type": "UBT",
-      "bound": {
-        "$ref": "./UBT.csv"
-      }
+      "type": "NOB"
     }
   ],
   "flow": {
