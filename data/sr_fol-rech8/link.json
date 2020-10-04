@@ -9,15 +9,23 @@
     "type": "Constant",
     "cost": 0
   },
-  "bounds": [
-    {
-      "type": "EQT",
-      "bound": {
-        "$ref": "./EQT.csv"
-      }
-    }
-  ],
+ "bounds":[
+	{
+		"type":"LBT",
+		"bound": {
+			"$ref":"./LBT.csv"
+		}
+	},
+	{
+		"type":"UBT",
+		"bound": {
+			"$ref":"./UBT.csv"
+		}
+	}
+],
   "flow": {
     "$ref": "flow.csv"
   }
 }
+
+
