@@ -1,0 +1,21 @@
+{
+  "prmname": "C152-C156",
+  "description": "Imperial-San Diego Canal (doesn't actually exist yet)",
+  "type": "Diversion",
+  "origin": "C152",
+  "terminus": "C156",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 525
+  },
+  "bounds": [
+    {
+      "type": "UBC",
+      "bound": 0
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "prmname": "WWP405-HGR18",
+  "description": null,
+  "type": "Diversion",
+  "origin": "WWP405",
+  "terminus": "HGR18",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 50
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

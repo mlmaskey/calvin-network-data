@@ -1,0 +1,21 @@
+{
+  "prmname": "WWP501-HNP501",
+  "description": null,
+  "type": "Diversion",
+  "origin": "WWP501",
+  "terminus": "HNP501",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 518
+  },
+  "bounds": [
+    {
+      "type": "UBC",
+      "bound": 0.0199999995529652
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

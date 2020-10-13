@@ -1,0 +1,20 @@
+{
+  "prmname": "C310-PMP_LosVaq",
+  "description": "Diversion to Los Vaqueros Pumping Plant",
+  "type": "Diversion",
+  "origin": "C310",
+  "terminus": "PMP_LosVaq",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

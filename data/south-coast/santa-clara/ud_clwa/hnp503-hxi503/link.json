@@ -1,0 +1,20 @@
+{
+  "prmname": "HNP503-HXI503",
+  "description": null,
+  "type": "Diversion",
+  "origin": "HNP503",
+  "terminus": "HXI503",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "prmname": "C65-WTP407",
+  "description": null,
+  "type": "Diversion",
+  "origin": "C65",
+  "terminus": "WTP407",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 45
+  },
+  "bounds": [
+    {
+      "type": "UBC",
+      "bound": 0
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

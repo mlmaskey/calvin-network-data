@@ -1,0 +1,21 @@
+{
+  "prmname": "C310-C323",
+  "description": "EBMUD and CCWD Intertie.  CCWD transfer to EBMUD",
+  "type": "Diversion",
+  "origin": "C310",
+  "terminus": "C323",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "UBC",
+      "bound": 5.59999990463257
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

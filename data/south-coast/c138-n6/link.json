@@ -1,0 +1,23 @@
+{
+  "prmname": "C138-N6",
+  "description": "San Diego Canal",
+  "type": "Diversion",
+  "origin": "C138",
+  "terminus": "N6",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "UBM",
+      "bound": {
+        "$ref": "./UBM.csv"
+      }
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "prmname": "CVPM09G-HGR09",
+  "description": null,
+  "type": "Diversion",
+  "origin": "CVPM09G",
+  "terminus": "HGR09",
+  "amplitude": 0.321000009775162,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

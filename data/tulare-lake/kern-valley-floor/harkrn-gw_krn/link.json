@@ -1,0 +1,23 @@
+{
+  "prmname": "HARKRN-GW_KRN",
+  "description": "Recharge in GW-Kern-Semitropic-Arvin/Edison",
+  "type": "Diversion",
+  "origin": "HARKRN",
+  "terminus": "GW_KRN",
+  "amplitude": 0.899999976158142,
+  "costs": {
+    "type": "Constant",
+    "cost": 14.8000001907349
+  },
+  "bounds": [
+    {
+      "type": "UBM",
+      "bound": {
+        "$ref": "./UBM.csv"
+      }
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "prmname": "HGP05-U201",
+  "description": "Diversions to Butte/Plumas/Yuba urban areas",
+  "type": "Diversion",
+  "origin": "HGP05",
+  "terminus": "U201",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 40.0900001525879
+  },
+  "bounds": [
+    {
+      "type": "UBC",
+      "bound": 0
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

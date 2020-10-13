@@ -1,0 +1,23 @@
+{
+  "prmname": "D701-D700",
+  "description": "Delta Mendota Canal.",
+  "type": "Diversion",
+  "origin": "D701",
+  "terminus": "D700",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "UBM",
+      "bound": {
+        "$ref": "./UBM.csv"
+      }
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

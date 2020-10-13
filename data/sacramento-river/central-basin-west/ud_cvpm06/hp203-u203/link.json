@@ -1,0 +1,20 @@
+{
+  "prmname": "HP203-U203",
+  "description": null,
+  "type": "Diversion",
+  "origin": "HP203",
+  "terminus": "U203",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

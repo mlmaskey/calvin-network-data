@@ -1,0 +1,21 @@
+{
+  "prmname": "WWP406-HP406",
+  "description": null,
+  "type": "Diversion",
+  "origin": "WWP406",
+  "terminus": "HP406",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 1800
+  },
+  "bounds": [
+    {
+      "type": "UBC",
+      "bound": 0
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

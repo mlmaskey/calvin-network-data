@@ -1,0 +1,20 @@
+{
+  "prmname": "HSD409C-C73",
+  "description": null,
+  "type": "Diversion",
+  "origin": "HSD409C",
+  "terminus": "C73",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

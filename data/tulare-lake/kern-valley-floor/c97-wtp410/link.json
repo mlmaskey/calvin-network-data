@@ -1,0 +1,21 @@
+{
+  "prmname": "C97-WTP410",
+  "description": null,
+  "type": "Diversion",
+  "origin": "C97",
+  "terminus": "WTP410",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 45
+  },
+  "bounds": [
+    {
+      "type": "UBC",
+      "bound": 12
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "prmname": "SR_CR1-C141",
+  "description": "First priority water to Palo Verde Ag - Policy 4a",
+  "type": "Diversion",
+  "origin": "SR_CR1",
+  "terminus": "C141",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

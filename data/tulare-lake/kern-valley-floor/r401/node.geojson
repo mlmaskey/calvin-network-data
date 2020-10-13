@@ -1,0 +1,8 @@
+{"type":"Feature",
+ "geometry":{"type":"Point","coordinates":[-119.457096,35.5073590000001]},
+ "properties":{"prmname":"R401",
+ "description":"SW and GW aggregation node for Kern Refuge",
+ "type":"Junction",
+ "inflows":null,
+ "sinks":null,
+ "flow":null}}

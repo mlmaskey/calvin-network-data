@@ -1,0 +1,20 @@
+{
+  "prmname": "D16-WTP302",
+  "description": null,
+  "type": "Diversion",
+  "origin": "D16",
+  "terminus": "WTP302",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 45
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

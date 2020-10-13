@@ -1,0 +1,21 @@
+{
+  "prmname": "WWP401-HP401",
+  "description": null,
+  "type": "Diversion",
+  "origin": "WWP401",
+  "terminus": "HP401",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 1800
+  },
+  "bounds": [
+    {
+      "type": "UBC",
+      "bound": 0
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

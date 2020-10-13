@@ -1,0 +1,23 @@
+{
+  "prmname": "D752-D855",
+  "description": "California Aqueduct",
+  "type": "Diversion",
+  "origin": "D752",
+  "terminus": "D855",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "UBM",
+      "bound": {
+        "$ref": "./UBM.csv"
+      }
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

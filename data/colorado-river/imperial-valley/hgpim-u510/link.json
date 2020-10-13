@@ -1,0 +1,21 @@
+{
+  "prmname": "HGPIM-U510",
+  "description": null,
+  "type": "Diversion",
+  "origin": "HGPIM",
+  "terminus": "U510",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 37
+  },
+  "bounds": [
+    {
+      "type": "UBC",
+      "bound": 0
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

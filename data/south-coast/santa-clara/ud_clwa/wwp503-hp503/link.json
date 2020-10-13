@@ -1,0 +1,21 @@
+{
+  "prmname": "WWP503-HP503",
+  "description": null,
+  "type": "Diversion",
+  "origin": "WWP503",
+  "terminus": "HP503",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 1800
+  },
+  "bounds": [
+    {
+      "type": "UBC",
+      "bound": 0
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

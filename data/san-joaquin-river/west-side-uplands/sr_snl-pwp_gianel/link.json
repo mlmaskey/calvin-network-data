@@ -1,0 +1,20 @@
+{
+  "prmname": "SR_SNL-PWP_Gianel",
+  "description": "San Luis Res Release to California Aqueduct",
+  "type": "Diversion",
+  "origin": "SR_SNL",
+  "terminus": "PWP_Gianel",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

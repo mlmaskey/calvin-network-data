@@ -1,0 +1,20 @@
+{
+  "prmname": "WTP407-U407",
+  "description": null,
+  "type": "Diversion",
+  "origin": "WTP407",
+  "terminus": "U407",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 30
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

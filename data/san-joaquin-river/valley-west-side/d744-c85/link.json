@@ -1,0 +1,20 @@
+{
+  "prmname": "D744-C85",
+  "description": "Deliveries to SWP Ag Region 6 from California Aqueduct",
+  "type": "Diversion",
+  "origin": "D744",
+  "terminus": "C85",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

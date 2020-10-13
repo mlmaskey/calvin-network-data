@@ -1,0 +1,20 @@
+{
+  "prmname": "HARIM-GW_IM",
+  "description": null,
+  "type": "Diversion",
+  "origin": "HARIM",
+  "terminus": "GW_IM",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

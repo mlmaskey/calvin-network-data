@@ -1,0 +1,23 @@
+{
+  "prmname": "C161-HARMWD",
+  "description": null,
+  "type": "Diversion",
+  "origin": "C161",
+  "terminus": "HARMWD",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 14.8000001907349
+  },
+  "bounds": [
+    {
+      "type": "UBM",
+      "bound": {
+        "$ref": "./UBM.csv"
+      }
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

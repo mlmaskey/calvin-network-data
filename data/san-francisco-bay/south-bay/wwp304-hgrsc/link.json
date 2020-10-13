@@ -1,0 +1,21 @@
+{
+  "prmname": "WWP304-HGRSC",
+  "description": null,
+  "type": "Diversion",
+  "origin": "WWP304",
+  "terminus": "HGRSC",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 50
+  },
+  "bounds": [
+    {
+      "type": "UBC",
+      "bound": 0
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

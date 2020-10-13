@@ -1,0 +1,21 @@
+{
+  "prmname": "WWP501-HP501",
+  "description": "Expanded recycling for Ventura. ",
+  "type": "Diversion",
+  "origin": "WWP501",
+  "terminus": "HP501",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 1480
+  },
+  "bounds": [
+    {
+      "type": "UBC",
+      "bound": 0
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

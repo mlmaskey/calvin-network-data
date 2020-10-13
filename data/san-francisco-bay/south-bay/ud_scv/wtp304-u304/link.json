@@ -1,0 +1,20 @@
+{
+  "prmname": "WTP304-U304",
+  "description": null,
+  "type": "Diversion",
+  "origin": "WTP304",
+  "terminus": "U304",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 375.920013427734
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

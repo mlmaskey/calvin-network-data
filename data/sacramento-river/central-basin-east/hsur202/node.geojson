@@ -1,0 +1,8 @@
+{"type":"Feature",
+ "geometry":{"type":"Point","coordinates":[-121.752957,39.077348]},
+ "properties":{"prmname":"HSUR202",
+ "description":"Hidden SW and GW diversion node for Sutter Refuge",
+ "type":"Junction",
+ "inflows":null,
+ "sinks":null,
+ "flow":null}}

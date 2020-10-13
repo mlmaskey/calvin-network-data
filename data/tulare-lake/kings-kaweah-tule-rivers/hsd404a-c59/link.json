@@ -1,0 +1,20 @@
+{
+  "prmname": "HSD404A-C59",
+  "description": "Hidden surface water return flow calibration link",
+  "type": "Diversion",
+  "origin": "HSD404A",
+  "terminus": "C59",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

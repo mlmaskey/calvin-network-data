@@ -1,0 +1,21 @@
+{
+  "prmname": "SR_LVQ-D801",
+  "description": "Los Vacqueros Connection to Clifton Court",
+  "type": "Diversion",
+  "origin": "SR_LVQ",
+  "terminus": "D801",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "UBC",
+      "bound": 0
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

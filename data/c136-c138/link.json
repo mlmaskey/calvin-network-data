@@ -1,0 +1,20 @@
+{
+  "prmname": "C136-C138",
+  "description": "Colorado Aqueduct",
+  "type": "Diversion",
+  "origin": "C136",
+  "terminus": "C138",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 230.880004882812
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

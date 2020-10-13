@@ -1,0 +1,21 @@
+{
+  "prmname": "D634-HSU306D634",
+  "description": "surface delivery CVPM 13",
+  "type": "Diversion",
+  "origin": "D634",
+  "terminus": "HSU306D634",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "UBC",
+      "bound": 47.2000007629395
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

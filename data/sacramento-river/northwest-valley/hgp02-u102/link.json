@@ -1,0 +1,20 @@
+{
+  "prmname": "HGP02-U102",
+  "description": null,
+  "type": "Diversion",
+  "origin": "HGP02",
+  "terminus": "U102",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 43.5200004577637
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

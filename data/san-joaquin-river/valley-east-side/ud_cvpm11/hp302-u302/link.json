@@ -1,0 +1,20 @@
+{
+  "prmname": "HP302-U302",
+  "description": null,
+  "type": "Diversion",
+  "origin": "HP302",
+  "terminus": "U302",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

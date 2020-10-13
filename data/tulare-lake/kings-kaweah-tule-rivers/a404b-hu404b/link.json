@@ -1,0 +1,20 @@
+{
+  "prmname": "A404B-HU404B",
+  "description": null,
+  "type": "Diversion",
+  "origin": "A404B",
+  "terminus": "HU404B",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

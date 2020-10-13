@@ -1,0 +1,23 @@
+{
+  "prmname": "U409-INT_CVPM21",
+  "description": null,
+  "type": "Diversion",
+  "origin": "U409",
+  "terminus": "INT_CVPM21",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "EQT",
+      "bound": {
+        "$ref": "./EQT.csv"
+      }
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "prmname": "HSD404B-C59",
+  "description": null,
+  "type": "Diversion",
+  "origin": "HSD404B",
+  "terminus": "C59",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

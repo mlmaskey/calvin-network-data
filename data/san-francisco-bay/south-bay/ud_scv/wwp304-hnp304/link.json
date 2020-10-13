@@ -1,0 +1,21 @@
+{
+  "prmname": "WWP304-HNP304",
+  "description": null,
+  "type": "Diversion",
+  "origin": "WWP304",
+  "terminus": "HNP304",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 518
+  },
+  "bounds": [
+    {
+      "type": "UBC",
+      "bound": 1.33000004291534
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

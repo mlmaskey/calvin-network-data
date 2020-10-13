@@ -1,0 +1,20 @@
+{
+  "prmname": "HSU408BN10-A408B",
+  "description": null,
+  "type": "Diversion",
+  "origin": "HSU408BN10",
+  "terminus": "A408B",
+  "amplitude": 0.930000007152557,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

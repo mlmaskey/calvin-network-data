@@ -1,0 +1,21 @@
+{
+  "prmname": "WWP305-HP305",
+  "description": null,
+  "type": "Diversion",
+  "origin": "WWP305",
+  "terminus": "HP305",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 1800
+  },
+  "bounds": [
+    {
+      "type": "UBC",
+      "bound": 0
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}
