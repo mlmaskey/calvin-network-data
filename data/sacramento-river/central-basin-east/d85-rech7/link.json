@@ -9,9 +9,12 @@
     "type": "Constant",
     "cost": 6.5
   },
-  "bounds": [
+"bounds": [
     {
-      "type": "NOB"
+      "type": "LBT",
+      "bound": {
+        "$ref": "./LBT.csv"
+      }
     }
   ],
   "flow": {
