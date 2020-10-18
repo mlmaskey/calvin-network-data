@@ -1,0 +1,20 @@
+{
+  "prmname": "C173-RECH8",
+  "description": "Artificial recharge to CVPM08 ",
+  "type": "Diversion",
+  "origin": "C173",
+  "terminus": "RECH8",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 6.5
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}
