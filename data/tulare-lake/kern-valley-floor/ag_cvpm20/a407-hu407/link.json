@@ -11,7 +11,10 @@
   },
   "bounds": [
     {
-      "type": "NOB"
+      "type": "UBT",
+      "bound": {
+        "$ref": "./UBT.csv"
+      }
     }
   ],
   "flow": {
