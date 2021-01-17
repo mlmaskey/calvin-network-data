@@ -1,6 +1,6 @@
 {
   "prmname": "HGP14-A402A",
-  "description": "Agricultural groundwater pumping GW-14 to CVPM 14 Demand",
+  "description": "Agricultural groundwater pumping GW-14 to CVPM 14 Demand derived from SWAT",
   "type": "Diversion",
   "origin": "HGP14",
   "terminus": "A402A",
@@ -12,7 +12,7 @@
   "bounds": [
     {
       "type": "UBC",
-      "bound": 221.130004882812
+      "bound": 249.336090
     }
   ],
   "flow": {
