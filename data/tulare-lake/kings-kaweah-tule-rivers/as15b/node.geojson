@@ -1,0 +1,8 @@
+{"type":"Feature",
+ "geometry":{"type":"Point","coordinates":[-119.7841904,36.1985012]},
+ "properties":{"prmname":"AS15B",
+ "description":"Irrigation demand from SWAT",
+ "type":"Junction",
+ "inflows":null,
+ "sinks":null,
+ "flow":null}}

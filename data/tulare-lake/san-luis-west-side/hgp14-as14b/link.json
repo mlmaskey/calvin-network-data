@@ -1,0 +1,21 @@
+{
+  "prmname": "HGP14-AS14B",
+  "description": null,
+  "type": "Diversion",
+  "origin": "HGP14",
+  "terminus": "AS14B",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 176.990005493164
+  },
+  "bounds": [
+    {
+      "type": "UBC",
+      "bound": 221.130004882812
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "prmname": "AS19A-HGR19",
+  "description": null,
+  "type": "Diversion",
+  "origin": "AS19A",
+  "terminus": "HGR19",
+  "amplitude": 0.24600000679493,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

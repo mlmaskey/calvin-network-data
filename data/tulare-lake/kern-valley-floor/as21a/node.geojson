@@ -1,0 +1,8 @@
+{"type":"Feature",
+ "geometry":{"type":"Point","coordinates":[-118.8681674,35.1839319]},
+ "properties":{"prmname":"AS21A",
+ "description":"Irrigation demand from SWAT",
+ "type":"Junction",
+ "inflows":null,
+ "sinks":null,
+ "flow":{"$ref" : "flow.csv"}}}

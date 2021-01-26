@@ -1,0 +1,20 @@
+{
+  "prmname": "AS14A-HGR14",
+  "description": null,
+  "type": "Diversion",
+  "origin": "AS14A",
+  "terminus": "HGR14",
+  "amplitude": 0.27700001001358,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

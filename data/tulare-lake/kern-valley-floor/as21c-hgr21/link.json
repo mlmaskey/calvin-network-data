@@ -1,0 +1,20 @@
+{
+  "prmname": "AS21C-HGR21",
+  "description": null,
+  "type": "Diversion",
+  "origin": "AS21C",
+  "terminus": "HGR21",
+  "amplitude": 0.226999998092651,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

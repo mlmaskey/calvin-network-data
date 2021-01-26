@@ -1,0 +1,20 @@
+{
+  "prmname": "AS18-HGR18",
+  "description": null,
+  "type": "Diversion",
+  "origin": "AS18",
+  "terminus": "HGR18",
+  "amplitude": 0.28999999165535,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

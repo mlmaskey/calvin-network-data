@@ -1,0 +1,20 @@
+{
+  "prmname": "AS21B-HSD409B",
+  "description": null,
+  "type": "Diversion",
+  "origin": "AS21B",
+  "terminus": "HSD409B",
+  "amplitude": 0.256999999284744,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}
