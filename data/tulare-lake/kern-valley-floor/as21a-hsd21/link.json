@@ -2,7 +2,7 @@
   "prmname": "AS21A-HSD21",
   "description": "SW return flow from CVPM 21",
   "type": "Diversion",
-  "origin": "CVPM21AS",
+  "origin": "AS21A",
   "terminus": "HSD21",
   "amplitude": 0.277999997138977,
   "costs": {

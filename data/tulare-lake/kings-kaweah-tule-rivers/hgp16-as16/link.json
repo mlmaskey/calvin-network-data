@@ -1,8 +1,8 @@
 {
-  "prmname": "HGP-AS16",
+  "prmname": "HGP16-AS16",
   "description": "Irrigation demand from SWAT",
   "type": "Diversion",
-  "origin": "HGP",
+  "origin": "HGP16",
   "terminus": "AS16",
   "amplitude": 1,
   "costs": {

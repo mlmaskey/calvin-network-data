@@ -2,7 +2,7 @@
   "prmname": "AS21A-HGR21",
   "description": null,
   "type": "Diversion",
-  "origin": "",
+  "origin": "AS21A",
   "terminus": "HGR21",
   "amplitude": 0.277999997138977,
   "costs": {

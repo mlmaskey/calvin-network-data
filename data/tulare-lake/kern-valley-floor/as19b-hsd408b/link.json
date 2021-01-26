@@ -1,8 +1,8 @@
 {
-  "prmname": "AS21B-HSD408B",
+  "prmname": "AS19B-HSD408B",
   "description": null,
   "type": "Diversion",
-  "origin": "AS21B",
+  "origin": "AS19B",
   "terminus": "HSD408B",
   "amplitude": 0.263000011444092,
   "costs": {

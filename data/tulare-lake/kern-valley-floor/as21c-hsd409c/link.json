@@ -2,7 +2,7 @@
   "prmname": "AS21C-HSD409C",
   "description": null,
   "type": "Diversion",
-  "origin": "CVPM21CS",
+  "origin": "AS21C",
   "terminus": "HSD409C",
   "amplitude": 0.226999998092651,
   "costs": {
