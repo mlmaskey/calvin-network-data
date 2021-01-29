@@ -1,9 +1,9 @@
 {
-  "prmname": "C65-AS19A",
+  "prmname": "C65-AS19B",
   "description": null,
   "type": "Diversion",
   "origin": "C65",
-  "terminus": "AS19A",
+  "terminus": "AS19B",
   "amplitude": 1,
   "costs": {
     "type": "Monthly Variable",
