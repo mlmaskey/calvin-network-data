@@ -1,0 +1,20 @@
+{
+  "prmname": "RECH8S-D503",
+  "description": "Hidden surface water return flow calibration link",
+  "type": "Diversion",
+  "origin": "RECH8S",
+  "terminus": "D503",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+  "bounds": [
+    {
+      "type": "NOB"
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

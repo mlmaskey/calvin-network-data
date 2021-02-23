@@ -1,10 +1,10 @@
 {
-  "prmname": "RECH8-GW_08",
+  "prmname": "RECH8G-HGR08",
   "description": null,
   "type": "Diversion",
-  "origin": "RECH8",
-  "terminus": "GW_08",
-  "amplitude": 0.95, 
+  "origin": "RECH8G",
+  "terminus": "HGR08",
+  "amplitude": 1,
   "costs": {
     "type": "Constant",
     "cost": 0
