@@ -4,7 +4,7 @@
   "type": "Diversion",
   "origin": "C173",
   "terminus": "RECH8",
-  "amplitude": 1,
+  "amplitude": 3.56,
   "costs": {
     "type": "Constant",
     "cost": 0

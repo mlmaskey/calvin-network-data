@@ -7,5 +7,5 @@ Uploaded by: Prudentia Gugulethu Zikalala | Email: pgzikalala@ucdavis.edu | Pena
 Mimi Jenkins, 2000-03-21, Electronic Document
 
 ## Added grouund water demand as per  agrculture deamnd and constrained to lower bound as per Goharian 2018
-Upper bound is considered as the optimized flow and lower bound as 100 times more than the optimized flow (Goharian, 2018)
+Upper bound is considered as the optimized flow and lower bound as 5% of optimized flow (Goharian, 2018)
 Mahesh Maskey

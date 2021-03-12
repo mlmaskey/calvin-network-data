@@ -4,10 +4,10 @@
   "type": "Diversion",
   "origin": "RECH8G",
   "terminus": "HGR08",
-  "amplitude": 1,
+  "amplitude": 0.305,
   "costs": {
     "type": "Constant",
-    "cost": 6.5
+    "cost": 0
   },
  "bounds":[
 	{
