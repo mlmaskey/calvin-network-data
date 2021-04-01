@@ -1,10 +1,10 @@
 {
-  "prmname": "RECH8-RECH8S",
+  "prmname": "RECH8-RECH8G",
   "description": null,
   "type": "Diversion",
   "origin": "RECH8",
-  "terminus": "RECH8S",
-  "amplitude": 1,
+  "terminus": "HU207",
+  "amplitude": 0.305,
   "costs": {
     "type": "Monthly Variable",
     "costs": {
