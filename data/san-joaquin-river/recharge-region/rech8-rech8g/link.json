@@ -4,7 +4,7 @@
   "type": "Diversion",
   "origin": "RECH8",
   "terminus": "RECH8G",
-  "amplitude": 0.695,
+  "amplitude": 0.90,
   "costs": {
     "type": "Monthly Variable",
     "costs": {
