@@ -9,9 +9,12 @@
     "type": "Constant",
     "cost": 0
   },
-  "bounds": [
+ "bounds": [
     {
-      "type": "NOB"
+      "type": "UBT",
+      "bound": {
+        "$ref": "./UBT.csv"
+      }
     }
   ],
   "flow": {
