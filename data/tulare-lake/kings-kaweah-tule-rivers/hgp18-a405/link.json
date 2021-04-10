@@ -11,9 +11,9 @@
   },
  "bounds": [
     {
-      "type": "UBT",
+      "type": "LBT",
       "bound": {
-        "$ref": "./UBT.csv"
+        "$ref": "./LBT.csv"
       }
     }
   ],

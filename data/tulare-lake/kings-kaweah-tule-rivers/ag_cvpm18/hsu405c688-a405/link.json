@@ -7,13 +7,13 @@
   "amplitude": 0.930000007152557,
   "costs": {
     "type": "Constant",
-    "cost": 0
+    "cost": 10
   },
  "bounds": [
     {
-      "type": "UBT",
+      "type": "LBT",
       "bound": {
-        "$ref": "./UBT.csv"
+        "$ref": "./LBT.csv"
       }
     }
   ],
