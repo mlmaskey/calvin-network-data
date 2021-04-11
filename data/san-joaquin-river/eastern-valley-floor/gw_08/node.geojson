@@ -9,6 +9,6 @@
  "storage":{"$ref" : "storage.csv"},
  "costs":{"type":"Constant",
  "cost":0},
- "bounds":[{"type":"LBT","bound":{"$ref":"./LBT.csv"}},{"type":"UBT","bound": {"$ref":"./UBT.csv"}}],
+ "bounds":[{"type":"UBT","bound": {"$ref":"./UBT.csv"}}],
  "sinks":null,
  "flow":null}}
