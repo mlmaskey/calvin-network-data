@@ -3,7 +3,7 @@
   "description": null,
   "type": "Diversion",
   "origin": "RECH8",
-  "terminus": "RECH8G",
+  "terminus": "HGR08",
   "amplitude": 0.90,
   "costs": {
     "type": "Monthly Variable",
