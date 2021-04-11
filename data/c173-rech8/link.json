@@ -4,10 +4,10 @@
   "type": "Diversion",
   "origin": "C173",
   "terminus": "RECH8",
-  "amplitude": 1,
+  "amplitude": 0.9,
   "costs": {
     "type": "Constant",
-    "cost": 0
+    "cost": 6.50
   },
  "bounds":[
 	{

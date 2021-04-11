@@ -4,7 +4,7 @@
   "type": "Diversion",
   "origin": "C173",
   "terminus": "HSU207C173",
-  "amplitude": 0.8,
+  "amplitude": 0.5,
   "costs": {
     "type": "Constant",
     "cost": 0

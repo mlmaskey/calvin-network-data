@@ -6,3 +6,7 @@ Alternative 1a run (A02B22) to see difference that occurs by constraining GW end
 
 ## Matthew Davis {initialstorage:1} Draft
 MDDxx
+## Mahesh L Maskey
+Storage changed to recommended storage by adding recommended monthly recharge 
+Added lower bound constraint adding minimum recharge to the groundwater storage
+Added upper bound constraint adding maximum recharge to the groundwater storage
