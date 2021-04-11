@@ -1,0 +1,23 @@
+{
+  "prmname": "RECH8G-HGR08",
+  "description": null,
+  "type": "Diversion",
+  "origin": "RECH8G",
+  "terminus": "HGR08",
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 0
+  },
+ "bounds":[
+	{
+		"type":"LBT",
+		"bound": {
+			"$ref":"./LBT.csv"
+		}
+	}
+],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}

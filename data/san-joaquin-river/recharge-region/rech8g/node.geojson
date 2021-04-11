@@ -1,0 +1,8 @@
+{"type":"Feature",
+ "geometry":{"type":"Point","coordinates":[-121.17475320551168,38.3774255107164]},
+ "properties":{"prmname":"RECH8G",
+ "description":"Artificial Recharge node",
+ "type":"Junction",
+ "inflows":null,
+ "sinks":null,
+ "flow":null}}
