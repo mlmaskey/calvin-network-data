@@ -16,3 +16,7 @@ Storage time series are also revised by adding recharge flow to change in storag
 UBT is removed
 Penalty function was added for each month by calculating maximum, mean, minumm and recommened optimized flow
 As per meeting, the recharge flow was recommended as the optimized flow in monthly avearge
+## Mahesh Maskey April 15, 2021
+restored initialstorage and endingstorage, storage time series due to infeasibility in model run
+Penalty function was added for each month by calculating maximum, mean, minumm and recommened optimized flow
+As per meeting, the recharge flow was recommended as the optimized flow in monthly avearge
