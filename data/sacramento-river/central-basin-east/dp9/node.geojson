@@ -1,0 +1,8 @@
+{"type":"Feature",
+ "geometry":{"type":"Point","coordinates":[-121.2444675,38.63409]},
+ "properties":{"prmname":"DP9",
+ "description":"Diversion to Fols. S. California Aqueduct towards Mok. River Aqu.",
+ "type":"Junction",
+ "inflows":null,
+ "sinks":null,
+ "flow":{"$ref" : "flow.csv"}}}

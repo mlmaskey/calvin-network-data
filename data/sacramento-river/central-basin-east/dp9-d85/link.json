@@ -1,8 +1,8 @@
 {
-  "prmname": "D9-D85",
+  "prmname": "DP9-D85",
   "description": "American River d/s Nimbus Dam Reach 1",
   "type": "Diversion",
-  "origin": "D9",
+  "origin": "DP9",
   "terminus": "D85",
   "amplitude": 1,
   "costs": {
