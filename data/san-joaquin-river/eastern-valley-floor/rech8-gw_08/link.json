@@ -1,9 +1,9 @@
 {
-  "prmname": "RECH8-HGR08",
+  "prmname": "RECH8-GW_08",
   "description": null,
   "type": "Diversion",
   "origin": "RECH8",
-  "terminus": "HGR08",
+  "terminus": "GW_08",
   "amplitude": 0.9,
   "costs": {
     "type": "Monthly Variable",
