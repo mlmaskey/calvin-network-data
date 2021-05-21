@@ -1,9 +1,9 @@
 {
-  "prmname": "C173-RECH8",
+  "prmname": "C173-HAR08",
   "description": "DIVERT WATER FROM SOUTHFLOSOM CANAL TO RECHARGE FACILITY",
   "type": "Diversion",
   "origin": "C173",
-  "terminus": "RECH8",
+  "terminus": "HAR08",
   "amplitude": 0.9,
   "costs": {
     "type": "Constant",
