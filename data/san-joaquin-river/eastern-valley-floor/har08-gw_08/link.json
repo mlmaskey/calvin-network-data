@@ -1,8 +1,8 @@
 {
-  "prmname": "RECH8-GW_08",
+  "prmname": "HAR08-GW_08",
   "description": null,
   "type": "Diversion",
-  "origin": "RECH8",
+  "origin": "HAR08",
   "terminus": "GW_08",
   "amplitude": 0.9,
   "costs": {
