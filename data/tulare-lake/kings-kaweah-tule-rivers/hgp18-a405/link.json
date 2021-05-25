@@ -8,13 +8,11 @@
   "costs": {
     "type": "Constant",
     "cost": 76.0899963378906
-     },
+  },
   "bounds": [
     {
-      "type": "UBT",
-      "bound": {
-        "$ref": "./UBT.csv"
-      }
+      "type": "UBC",
+      "bound": 300
     }
   ],
   "flow": {

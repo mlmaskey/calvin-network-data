@@ -1,20 +1,17 @@
 {
-  "prmname": "HSU405C56-A405",
-  "description": "Kaweah River diversion to CVPM 18 (DA 60E)",
+  "prmname": "HSU405C58-A405",
+  "description": "Tule Diversion to CVPM 18 (DA 60E)",
   "type": "Diversion",
-  "origin": "HSU405C56",
+  "origin": "HSU405C58",
   "terminus": "A405",
   "amplitude": 0.829999983310699,
   "costs": {
     "type": "Constant",
-    "cost": 10
+    "cost": 0
   },
   "bounds": [
     {
-      "type": "UBT",
-      "bound": {
-        "$ref": "./UBT.csv"
-      }
+      "type": "NOB"
     }
   ],
   "flow": {
