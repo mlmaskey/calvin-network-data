@@ -9,8 +9,14 @@
     "type": "Constant",
     "cost": 0
   },
- "bounds": [
-    {
+ "bounds":[
+	{
+		"type":"LBT",
+		"bound": {
+			"$ref":"./LBT.csv"
+		}
+	},
+	{
 		"type":"UBT",
 		"bound": {
 			"$ref":"./UBT.csv"
